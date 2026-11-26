@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://andreseduardogarciaoficial-create.github.io/proyectista-andres-garcia/sitemap.xml
